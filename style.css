@@ -1,10 +1,28 @@
 body {
     background-color: yellow;
 }
-p {
-    font-size: 150%;
+
+#store-name {
+  color:red;
+}
+
+.individual-pet {
+text-align: center;
+}
+
+body {
+    font-size: 100%;
 }
 
 p {
     font-family: "Times New Roman", Georgia, Serif;
+}
+
+img {
+  height: 100px;
+    width: 100px;
+}
+
+h4 {
+  background-color: green;
 }
